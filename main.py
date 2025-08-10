@@ -7,13 +7,13 @@ from telethon.tl.functions.account import UpdateProfileRequest
 # --- НАСТРОЙКИ ---
 
 # Telegram
-API_ID = 29291538            # твой api_id
-API_HASH = "878de99fc4037b3e307f30c98dc6cb12"
+API_ID =             # твой api_id
+API_HASH = ""
 SESSION_NAME = "spotify_status"
 
 # Spotify
-SPOTIFY_CLIENT_ID = "493f60b27e8548ecb3c3477da5e06cff"
-SPOTIFY_CLIENT_SECRET = "7e905918b0674d6db1ffbd764d52cc33"
+SPOTIFY_CLIENT_ID = ""
+SPOTIFY_CLIENT_SECRET = ""
 SPOTIFY_REDIRECT_URI = "http://127.0.0.1:8888/callback"
 
 # --- ИНИЦИАЛИЗАЦИЯ ---
